@@ -23,7 +23,5 @@ public class Main {
         lst2.subList(1,5).set(0,1);
         lst2.forEach(n -> System.out.print(n +" "));
 
-
-
     }
 }
