@@ -1,0 +1,13 @@
+
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿ¡«j8∑πîè≈1
+X	java:S1256"<This block of commented-out lines of code should be removed.(ë‹„´8¡πîè≈1
+L	java:S106="+Replace this use of System.out by a logger.(π¶Öá˙ˇˇˇˇ8¡πîè≈1
+_
+java:S1128"=Remove this unused import 'java.time.chrono.ChronoLocalDate'.(ëÀ°∞ˇˇˇˇˇ8¬πîè≈1
+c
+java:S1128"ARemove this unused import 'java.time.chrono.ChronoLocalDateTime'.(œäŸ‡˚ˇˇˇˇ8¬πîè≈1
+Y
+java:S1128
+"7Remove this unused import 'java.util.stream.Collector'.(ﬂãŒ”¯ˇˇˇˇ8¬πîè≈1
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(”Û∫¥˙ˇˇˇˇ8¬πîè≈1

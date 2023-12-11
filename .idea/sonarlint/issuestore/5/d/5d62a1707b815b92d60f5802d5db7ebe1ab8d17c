@@ -1,0 +1,8 @@
+
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ØÁÇj8“œéÄ1
+t
+java:S4276
+"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(á×ªÓøÿÿÿÿ8—œéÄ1
+L	java:S106"+Replace this use of System.out by a logger.(¹¦…‡úÿÿÿÿ8˜œéÄ1
+S
+java:S1128"1Remove this unused import 'AdapterPattern.Print'.(¡±èøÿÿÿÿ8˜œéÄ1

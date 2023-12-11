@@ -1,0 +1,20 @@
+
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ØÁÇj8ö‡¿Å1
+[
+java:S1854"9Remove this useless assignment to local variable "user3".(æ€Ô»ÿÿÿÿÿ8şã¿Å1
+[
+java:S1854"9Remove this useless assignment to local variable "user2".(éˆ”Æÿÿÿÿÿ8şã¿Å1
+[
+java:S1854
+"9Remove this useless assignment to local variable "user1".(å óÇıÿÿÿÿ8şã¿Å1
+L
+java:S1481
+"*Remove this unused "user1" local variable.(å óÇıÿÿÿÿ8ÿã¿Å1
+L
+java:S1481"*Remove this unused "user2" local variable.(éˆ”Æÿÿÿÿÿ8€ä¿Å1
+L
+java:S1481"*Remove this unused "user3" local variable.(æ€Ô»ÿÿÿÿÿ8€ä¿Å1
+X	java:S125"<This block of commented-out lines of code should be removed.(Ï£­İ8€ä¿Å1
+L	java:S1064"+Replace this use of System.out by a logger.(¹¦…‡úÿÿÿÿ8†ˆ¿Å1
+V
+java:S1128"9Remove this unused import 'java.util.function.Predicate'.(ïÍ–¶8ƒä¿Å1

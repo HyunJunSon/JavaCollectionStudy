@@ -1,0 +1,11 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ø´‡øÿÿÿÿ8€­¸åÄ1
+[
+java:S1854
+">Remove this useless assignment to local variable "bipredicat".(“¨îä8‚­¸åÄ1
+]	java:S125	"<This block of commented-out lines of code should be removed.(œç½¢ùÿÿÿÿ8°”¹åÄ1
+L
+java:S1481
+"/Remove this unused "bipredicat" local variable.(“¨îä8ƒó¸åÄ1
+V
+java:S1128"9Remove this unused import 'java.util.function.Predicate'.(ïÍ–¶8±”¹åÄ1

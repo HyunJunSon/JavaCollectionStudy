@@ -1,0 +1,18 @@
+
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿ¡«j8È”∑ê≈1
+`
+java:S1854"CRemove this useless assignment to local variable "cityStreamlist2".(Æ¨≈®8Ï”∑ê≈1
+_
+java:S1854"BRemove this useless assignment to local variable "cityStreamlist".(ı¿ßµ8Ãﬁπê≈1
+]
+java:S1612";Replace this lambda with method reference 'Arrays::stream'.(ü¢‰Ô˙ˇˇˇˇ8Ó”∑ê≈1
+o
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ı¿ßµ8Ó”∑ê≈1
+P
+java:S1481"3Remove this unused "cityStreamlist" local variable.(ı¿ßµ8Ó”∑ê≈1
+X
+java:S1612";Replace this lambda with method reference 'Arrays::stream'.(ıÂ¸—8ôØºê≈1
+o
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(Æ¨≈®8Œﬁπê≈1
+Q
+java:S1481"4Remove this unused "cityStreamlist2" local variable.(Æ¨≈®8îñ∫ê≈1

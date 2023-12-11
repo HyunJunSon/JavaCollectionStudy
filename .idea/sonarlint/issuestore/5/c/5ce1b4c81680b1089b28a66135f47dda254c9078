@@ -1,0 +1,37 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÅÎ§á8€ù»Å1
+T
+java:S1854+"7Remove this useless assignment to local variable "st2".(ä‹„½8„ù»Å1
+U
+java:S1854"9Remove this useless assignment to local variable "email".(øî‚68„ù»Å1
+a
+java:S1854"?Remove this useless assignment to local variable "maybeEmail4".(˜»‡”üÿÿÿÿ8„ù»Å1
+a
+java:S1854"?Remove this useless assignment to local variable "maybeEmail3".(ğè°óúÿÿÿÿ8„ù»Å1
+[
+java:S1854"9Remove this useless assignment to local variable "user2".(éˆ”Æÿÿÿÿÿ8„ù»Å1
+[
+java:S1854"9Remove this useless assignment to local variable "user1".(å óÇıÿÿÿÿ8„ù»Å1
+L
+java:S1481"*Remove this unused "user1" local variable.(å óÇıÿÿÿÿ8†ù»Å1
+L
+java:S1481"*Remove this unused "user2" local variable.(éˆ”Æÿÿÿÿÿ8†ù»Å1
+K
+java:S1481".Remove this unused "nullEmail" local variable.(šÿôÅ8†ù»Å1
+R
+java:S1481"0Remove this unused "maybeEmail3" local variable.(ğè°óúÿÿÿÿ8‡ù»Å1
+R
+java:S1481"0Remove this unused "maybeEmail4" local variable.(˜»‡”üÿÿÿÿ8‡ù»Å1
+F
+java:S1481"*Remove this unused "email" local variable.(øî‚68ˆù»Å1
+X	java:S125"<This block of commented-out lines of code should be removed.(§ŠÓ‰8‰ù»Å1
+X	java:S125"<This block of commented-out lines of code should be removed.(ÂË¿8Šù»Å1
+]	java:S125"<This block of commented-out lines of code should be removed.(Ì´ãÿÿÿÿÿ8Šù»Å1
+X	java:S125!"<This block of commented-out lines of code should be removed.(¤Ş÷8Šù»Å1
+]	java:S125$"<This block of commented-out lines of code should be removed.(Œ»³ıøÿÿÿÿ8Šù»Å1
+X	java:S125&"<This block of commented-out lines of code should be removed.(± Æ’8Šù»Å1
+E
+java:S1481+"(Remove this unused "st2" local variable.(ä‹„½8‹ù»Å1
+]	java:S125,"<This block of commented-out lines of code should be removed.(ş’°ùÿÿÿÿ8Œù»Å1
+X	java:S125."<This block of commented-out lines of code should be removed.(‡ôä‰8Œù»Å1
+X	java:S1250"<This block of commented-out lines of code should be removed.(·ºí–8Œù»Å1

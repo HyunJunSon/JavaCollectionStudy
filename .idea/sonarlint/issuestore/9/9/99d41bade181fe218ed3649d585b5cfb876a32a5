@@ -1,0 +1,6 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“°Ö8´©ôèÄ1
+W
+java:S1854":Remove this useless assignment to local variable "stream".(µÏê8å¶õèÄ1
+H
+java:S1481"+Remove this unused "stream" local variable.(µÏê8æ¶õèÄ1

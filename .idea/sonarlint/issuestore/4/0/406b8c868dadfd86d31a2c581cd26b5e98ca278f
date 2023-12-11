@@ -1,0 +1,11 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ø´‡øÿÿÿÿ8Ò‰ÉÎÄ1
+T
+java:S1854
+"7Remove this useless assignment to local variable "str".(±–Øö8ğ•ÍÎÄ1
+}
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'ToIntFunction<String>'(”à©‘úÿÿÿÿ8Ö‰ÉÎÄ1
+L	java:S106"+Replace this use of System.out by a logger.(ïÊÉûøÿÿÿÿ8Ù‰ÉÎÄ1
+E
+java:S1481
+"(Remove this unused "str" local variable.(±–Øö8ñ•ÍÎÄ1

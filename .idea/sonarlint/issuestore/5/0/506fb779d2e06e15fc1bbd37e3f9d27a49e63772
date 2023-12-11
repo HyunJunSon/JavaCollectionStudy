@@ -1,0 +1,14 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(öÆüì8Ý…¹–Ä1
+‚
+java:S1149
+"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¶úê¼8ã…¹–Ä1
+X	java:S125"<This block of commented-out lines of code should be removed.(›„Ç¥8æ…¹–Ä1
+]	java:S125"<This block of commented-out lines of code should be removed.(‘¢ÔÏýÿÿÿÿ8æ…¹–Ä1
+L	java:S106'"+Replace this use of System.out by a logger.(¥¦Ã’øÿÿÿÿ8ç…¹–Ä1
+]	java:S125!"<This block of commented-out lines of code should be removed.(›¦úÿÿÿÿ8ç…¹–Ä1
+]	java:S125$"<This block of commented-out lines of code should be removed.(ÑÈÊÓøÿÿÿÿ8ç…¹–Ä1
+L	java:S106("+Replace this use of System.out by a logger.(æ±ø‘ùÿÿÿÿ8è…¹–Ä1
+L	java:S106*"+Replace this use of System.out by a logger.(æ±ø‘ùÿÿÿÿ8é…¹–Ä1
+U
+java:S1128"3Remove this unused import 'java.util.ListIterator'.(õ¥æÊþÿÿÿÿ8é…¹–Ä1
